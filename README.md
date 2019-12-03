@@ -1,2 +1,7 @@
 # Non-Violent-vs-Violent-Campaigns
-This repository includes an analysis on a dataset including Campaigns from the year 1900 to 2006 adopted by the book  Why Civil Resistance Works by Erical Chenoweth and Maria J. Stephan. The two authors examined whether nonviolent campaigns are more effective than violent campaigns.  
+This repository includes an analysis on a dataset including Campaigns from the year 1900 to 2006 adopted by the book  Why Civil Resistance Works by Erical Chenoweth and Maria J. Stephan. The two authors examined whether nonviolent campaigns are more effective than violent campaigns.  This analysis is a part of an assignment of the course 'Applied Machine Learning' in th Athens University of Economics and Business , Department of Management Science and Technology.
+
+# Exploring Why Civil Resistance Works
+In this assignment, you will replicate some of the findings of a well-received book, Why Civil Resistance Works by Erical Chenoweth and Maria J. Stephan. The two authors examined whether nonviolent campaigns are more effective than violent campaigns. They found that yes; from a data set containing details of campaigns from 1900 onwards, they found that in general peaceful campaigns are more effective in achieving their aims than violent ones.
+
+To answer the following questions you will use the data that the authors helpfully provide at https://www.ericachenoweth.com/wp-content/uploads/2012/01/Data-and-Replication-Files-3.zip. The data is in Stata format, which pandas can read without a problem. To understand the data, read the documentation at https://www.ericachenoweth.com/wp-content/uploads/2019/07/WCRW-Appendix.pdf (in particular, Table WA.7)
